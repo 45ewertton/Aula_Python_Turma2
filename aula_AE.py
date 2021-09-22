@@ -84,7 +84,7 @@ for i in range (2, 30, 2):
 '''
 Estruturas de dados, lista, pilha e fila.
 
-lista = [1, 'Maria' True]
+lista = [1, 'Maria', True]
 print(lista)
 ---------------------------------------------------------------------
 
